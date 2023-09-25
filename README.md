@@ -9,7 +9,7 @@
         "metadata": {
           "attribute 1": "trait",
           "attribute 2": "trait",
-          }
+            }
         },
         {
           "inscriptionId": "0f00dcbddb569bc94d9cbb0c33630d4697dcdcb9df99dbe11e7e582608edff06i0",
@@ -19,8 +19,8 @@
         "metadata": {
           "attribute 1": "trait",
           "attribute 2": "trait",
-          }
+            }
         }
-  ]
+    ]
 }
 ```
