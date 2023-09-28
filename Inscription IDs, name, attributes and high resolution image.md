@@ -1,7 +1,6 @@
 ```json
 {
   "body": [
-    [
       {
         "inscriptionId": "09499db39346ff9dd3114cb2840c6b4fcb16bb47ddfb72814d4f045e55be58e6i0",
         "name": "NFT #1",
@@ -22,7 +21,6 @@
           "attribute 2": "trait"
         }
       }
-    ]
   ]
 }
 ```
